@@ -3,11 +3,11 @@ COGS 501 - Formal Languages and Linguistics - METU
 
 **Short description:** The course is an introduction to two foundational concepts in cognitive science: structural representation and computation. As empirical domain, we look at increasingly complex structural representations from morphology and syntax of natural languages. We couple this with an introduction to the theory of computation. We aim to establish that (i) human language capacity is (based on) a computationally describable unconscious system of rules and representations; (ii) that there are mathematically precise ways of talking about different *types* of structural relations; and (iii) that bringing these two together opens up new avenues in the cognitive scientific investigation of language.
 
-**Instructor:** Umut Özge, `umozge@metu.edu.tr`  
- Room B-208, phone: 210 7884  
- Office hours: Wed 10:30--12:30 and/or by appointment.
+**Instructor:** Cem Bozsahin  
+ Room B-209, phone: 210 7758  
+ Office hours: open door policy except one hour before and after classes
 
-**Teaching assistant:** Ece K. Takmaz, `etakmaz@metu.edu.tr`
+**Teaching assistant:** Tunc Guven Kaya, `tuncgk@gmail.com`
 
 **News and discussion:** in class and the Google
 [group](https://groups.google.com/forum/#!forum/metu-cogs-501-linguistics-and-formal-languages)
@@ -15,7 +15,7 @@ of the course.
 
 **Announcements:** Google [group](https://groups.google.com/forum/#!forum/metu-cogs-501-linguistics-and-formal-languages), make sure that you do not miss important announcements.
 
-**Time and place:** Thursdays, 14:40-17:30, II-03 (last class on May 25, 2017).
+**Time and place:** Thursdays, 14:40-17:30, II-01
 
 ### Outline
 
@@ -43,19 +43,19 @@ Tallerman, M. (2011). *Understanding Syntax*. Hodder Education, Croydon, UK.
 ### Evaluation
 
 |Category| Date | Weight |
-:---|:---|---:
-5 Quizes, best 4 counted  | Mar 16 | 40%
-| | Apr 6  |   
-| | Apr 27 |   
-| | May 11 |   
-| | May 25 |   
-Homework  | TBA | 20%
-Final exam | TBA | 40%
+Weekly quiz | Every week | 50% 
+Homework  | TBA | Mid term%
+Final exam | TBA | 30%
 
+11 quizzes, sometimes at beginning, sometimes end of class.
+
+9 out of 11 counted toward 50%.
 
 ### Attendance
 
-Not formally required; but past experience shows attendance is a robust
+More or less required, because of the quiz.
+
+Past experience shows attendance is a robust
 predictor of success in this course. Make-up quizzes are possible in case of a
 medical issue.  
 
