@@ -43,6 +43,7 @@ Tallerman, M. (2011). *Understanding Syntax*. Hodder Education, Croydon, UK.
 ### Evaluation
 
 |Category| Date | Weight |
+:---|:---|---:
 Weekly quiz | Every week | 50% 
 Homework  | TBA | Mid term%
 Final exam | TBA | 30%
