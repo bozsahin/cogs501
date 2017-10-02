@@ -54,7 +54,7 @@ Final exam | TBA | 26%
 
 11 quizzes, sometimes in the beginning, sometimes at the end of class.
 
-9 out of 11 counted toward 50%.
+9 out of 11 counts toward overall grade.
 
 ### Attendance
 
