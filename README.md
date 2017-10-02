@@ -4,6 +4,7 @@ COGS 501 - Formal Languages and Linguistics - METU
 **Short description:** The course is an introduction to two foundational concepts in cognitive science: structural representation and computation. As empirical domain, we look at increasingly complex structural representations from morphology and syntax of natural languages. We couple this with an introduction to the theory of computation. We aim to establish that (i) human language capacity is (based on) a computationally describable unconscious system of rules and representations; (ii) that there are mathematically precise ways of talking about different *types* of structural relations; and (iii) that bringing these two together opens up new avenues in the cognitive scientific investigation of language.
 
 **Instructor:** Cem Bozsahin  `bozsahin@metu.edu.tr`
+
  Room B-209, phone: 210 7758  
  Office hours: open door policy except lecture days (currently W/Th)
 
@@ -32,10 +33,11 @@ of the course.
 
 ### Material
 
-Lecture notes will be available on this site, and hardcopy at class.  
-You may consult other sources as needed, such as: 
+Lecture notes are <a href="https://github.com/umutozge/cogs501">here</a>.
 
-Partee, B. H., ter Meulen, A., and Wall, R. E. (1990). *Mathematical Methods in Linguistics*. Kluwer, Dodrecht.  
+Some popular references for course material:
+
+Sudkamp, Thomas (2006). Formal Languages and Machines. Pearson. 3rd edition.
 Payne, T. (2006). *Exploring Language Structure: A Student's Guide*.  Cambridge University Press.  
 Tallerman, M. (2011). *Understanding Syntax*. Hodder Education, Croydon, UK.  
 
