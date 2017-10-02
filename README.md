@@ -45,7 +45,7 @@ Tallerman, M. (2011). *Understanding Syntax*. Hodder Education, Croydon, UK.
 |Category| Date | Weight |
 :---|:---|---:
 Weekly quiz | Every week | 50% 
-Homework  | TBA | Mid term%
+Homework  | TBA | Mid term 20%
 Final exam | TBA | 30%
 
 11 quizzes, sometimes in the beginning, sometimes at the end of class.
@@ -64,10 +64,8 @@ medical issue.
 
 - Mobile phones and similar devices must be in silent mode and in bags during
   exams.
-- All ethical rules endorsed by METU apply (check the official syllabus
+- METU ethical rules apply (check the official syllabus
   [here](https://odtusyllabus.metu.edu.tr/)).
-- Please feel free to contact me in case you have any special needs to follow
-  the course.
 
 ### Some past runs of this course
 
