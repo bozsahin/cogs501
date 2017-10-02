@@ -47,7 +47,7 @@ Weekly quiz | Every week | 50%
 Homework  | TBA | Mid term%
 Final exam | TBA | 30%
 
-11 quizzes, sometimes at beginning, sometimes end of class.
+11 quizzes, sometimes in the beginning, sometimes at the end of class.
 
 9 out of 11 counted toward 50%.
 
