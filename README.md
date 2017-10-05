@@ -68,6 +68,7 @@ medical issue.
 
 - Mobile phones and similar devices must be in silent mode and in bags during
   exams.
+- Mobile phones are not good devices for taking notes. Pen are better. Writing is doing.
 - METU ethical rules apply (check the official syllabus
   [here](https://odtusyllabus.metu.edu.tr/)).
 
