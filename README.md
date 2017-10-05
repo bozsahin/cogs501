@@ -7,6 +7,7 @@ COGS 501 - Formal Languages and Linguistics - METU
 
  Room B-209, phone: 210 7758  
  Office hours: open door policy except lecture days (currently W/Th)
+(i need to concentrate to lecture, and am too tired to talk after lecture)
 
 **Teaching assistant:** Tunc Guven Kaya, `tuncgk@gmail.com`
 
