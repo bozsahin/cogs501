@@ -20,7 +20,7 @@ of the course.
 
 **Announcements:** Google [group](https://groups.google.com/forum/#!forum/metu-cogs-501-linguistics-and-formal-languages), make sure that you do not miss important announcements.
 
-**Time and place:** Wednesdays, 14:40-17:30, II-01
+**Time and place:** Thursday, 14:40-17:30, II-01
 
 ### Outline
 
