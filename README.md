@@ -1,3 +1,5 @@
+# Spring 2018
+
 COGS 501 - Formal Languages and Linguistics - METU 
 -------------------------------------------------------
 
@@ -18,7 +20,7 @@ of the course.
 
 **Announcements:** Google [group](https://groups.google.com/forum/#!forum/metu-cogs-501-linguistics-and-formal-languages), make sure that you do not miss important announcements.
 
-**Time and place:** Thursdays, 14:40-17:30, II-01
+**Time and place:** Wednesdays, 14:40-17:30, II-01
 
 ### Outline
 
@@ -51,7 +53,7 @@ Tallerman, M. (2011). *Understanding Syntax*. Hodder Education, Croydon, UK.
 |Category| Date | Weight |
 :---|:---|---:
 Weekly quiz | Every week | 54% 
-Midterm exam  | Nov 16, in class | 20%
+Midterm exam  | Date TBA, in class | 20%
 Final exam | TBA | 26%
 
 11 quizzes, sometimes in the beginning, sometimes at the end of class.
