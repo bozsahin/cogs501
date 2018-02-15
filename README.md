@@ -1,6 +1,6 @@
 # Spring 2018
 
-COGS 501 - Formal Languages and Linguistics - METU 
+COGS 501 - Algorithmic structures in cognition - METU 
 -------------------------------------------------------
 
 **Short description:** The course is an introduction to two foundational concepts in cognitive science: structural representation and computation. As empirical domain, we look at increasingly complex structural representations from morphology and syntax of natural languages. We couple this with an introduction to the theory of computation. We aim to establish that (i) human language capacity is (based on) a computationally describable unconscious system of rules and representations; (ii) that there are mathematically precise ways of talking about different *types* of structural relations; and (iii) that bringing these two together opens up new avenues in the cognitive scientific investigation of language.
