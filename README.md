@@ -15,7 +15,7 @@ COGS 501 - Algorithmic structures in cognition - METU
 **Teaching assistant:** Tunc Guven Kaya, `tuncgk@gmail.com`
 
 **News and discussion:** in class and the Google
-[group](https://groups.google.com/forum/#!forum/metu-cogs-501-linguistics-and-formal-languages)
+[group](https://groups.google.com/forum/#!forum/metu-cogs-501-algorithmic-structures-in-cognition)
 of the course. 
 
 **Announcements:** Google [group](https://groups.google.com/forum/#!forum/metu-cogs-501-linguistics-and-formal-languages), make sure that you do not miss important announcements.
