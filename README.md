@@ -51,7 +51,7 @@ Tallerman, M. (2011). *Understanding Syntax*. Hodder Education, Croydon, UK.
 |Category| Date | Weight |
 :---|:---|---:
 Weekly quiz | Every week | 54% 
-Midterm exam  | Date TBA, in class | 20%
+Midterm exam  | April 5, 2018, in class | 20%
 Final exam | TBA | 26%
 
 11 quizzes, sometimes in the beginning, sometimes at the end of class.
