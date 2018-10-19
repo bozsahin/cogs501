@@ -56,19 +56,5 @@ Final exam | TBA | 26%
 
 More or less required, because of the quiz.
 
-### Various
-
-- Mobile phones and similar devices must be in silent mode and in bags during
-  exams.
-- Mobile phones are not good devices for taking notes. Pen are better for science notes. Writing is doing.
 - METU ethical rules apply (check the official syllabus
   [here](https://odtusyllabus.metu.edu.tr/)).
-
-### Some past runs of this course
-
-- [Fall 2015](http://users.metu.edu.tr/umozge/cr/cogs501Fall2015/)
-- [Fall 2016](http://users.metu.edu.tr/umozge/cr/cogs501Fall2016/)
-
-### License
-
-The content of this course is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
