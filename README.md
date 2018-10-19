@@ -37,9 +37,7 @@ Some popular references for course material:
 
 Sudkamp, Thomas (2006). Formal Languages and Machines. Pearson. 3rd edition.
 
-Payne, T. (2006). *Exploring Language Structure: A Student's Guide*.  Cambridge University Press.  
-
-Tallerman, M. (2011). *Understanding Syntax*. Hodder Education, Croydon, UK.  
+Others TBA
 
 
 ### Evaluation
