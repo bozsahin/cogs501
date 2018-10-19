@@ -23,6 +23,10 @@ of the course.
 ### Outline
 
 - [From Aristotle to Ibn Khaldun, Newton, Hume and Turing] Mechanistic explanation. (1 week)
+- [Automata and formal languages] (5 weeks)
+- [Lambda calculus] (3 weeks)
+- [Cognitive Algorithms] (4 weeks)
+- [Mid-term exam] (1 week)
 
 
 ### Material
