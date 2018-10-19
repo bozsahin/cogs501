@@ -3,7 +3,7 @@
 COGS 501 - Algorithmic structures in cognition - METU 
 -------------------------------------------------------
 
-**Short description:** The course is an introduction to two foundational concepts in cognitive science: structural representation and computation. Mechanistic explanation of structure.
+**Short description:** Introduction to two foundational concepts in cognitive science: structural representation and computation. Mechanistic explanation of structure.
 
 **Instructor:** Cem Bozsahin  `bozsahin@metu.edu.tr`
 
@@ -22,16 +22,8 @@ of the course.
 
 ### Outline
 
-- [General introduction](https://github.com/umutozge/cogs501/blob/master/notes/00_cogs501-general-introduction.pdf)
-- [Basics of formal languages + regular languages](https://github.com/umutozge/cogs501/blob/master/notes/01_cogs501-regular-languages.pdf)
-- [Finite automata](https://github.com/umutozge/cogs501/blob/master/notes/02_cogs501-finite-automata.pdf)
-- [Natural language morphology](https://github.com/umutozge/cogs501/blob/master/notes/03_cogs501-morphology.pdf)
-- Morphology and computation
-- [Grammars, derivations, context-free languages](https://github.com/umutozge/cogs501/blob/master/notes/04_cogs501-context-free-languages.pdf)
-- [Natural language syntax](https://github.com/umutozge/cogs501/blob/master/notes/05_cogs501-syntax.pdf)
-- Syntax and computation
-- Beyond context-freeness
-- Turing machines   
+- [From Aristotle to Ibn Khaldun, Newton, Hume and Turing] Mechanistic explanation. (1 week)
+
 
 ### Material
 
