@@ -18,14 +18,14 @@ COGS 501 - Algorithmic structures in cognition - METU
 [group](https://groups.google.com/forum/#!forum/metu-cogs-501-algorithmic-structures-in-cognition)
 of the course. 
 
-**Time and place:** TBA
+**Time and place:** Wednesdays, 14.40-17.30, at Informatics
 
 ### Outline
 
-- [From Aristotle to Ibn Khaldun, Newton, Hume and Turing] Mechanistic explanation. (1 week)
-- [Automata and formal languages] (5 weeks)
+- [From Aristotle to Ibn Khaldun, Newton, Hume and Turing] Mechanistic explanation. (2 weeks)
+- [Automata and formal languages] (4 weeks)
 - [Lambda calculus] (3 weeks)
-- [Cognitive Algorithms] (4 weeks)
+- [Cognitive Algorithms from planning, vision and language] (4 weeks)
 - [Mid-term exam] (1 week)
 
 
