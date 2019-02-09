@@ -5,7 +5,7 @@ COGS 501 - Algorithmic structures in cognition - METU
 
 **Short description:** Introduction to two foundational concepts in cognitive science: representation of structures and its computation. Mechanistic explanation of structure.
 
-**Instructor:** Cem Bozsahin  `bozsahin@metu.edu.tr`
+**Instructor:** Cem Bozsahin (spring 2019)
 
  Room B-209, phone: 210 7758  
  Office hours: open door policy except lecture days 
