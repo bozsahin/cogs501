@@ -3,7 +3,7 @@
 COGS 501 - Algorithmic structures in cognition - METU 
 -------------------------------------------------------
 
-**Short description:** Introduction to two foundational concepts in cognitive science: structural representation and computation. Mechanistic explanation of structure.
+**Short description:** Introduction to two foundational concepts in cognitive science: representation of structures and its computation. Mechanistic explanation of structure.
 
 **Instructor:** Cem Bozsahin  `bozsahin@metu.edu.tr`
 
@@ -25,7 +25,7 @@ of the course.
 - [From Aristotle to Ibn Khaldun, Newton, Hume and Turing] Mechanistic explanation. (2 weeks)
 - [Automata and formal languages] (4 weeks)
 - [Lambda calculus] (3 weeks)
-- [Cognitive Algorithms from planning, vision and language] (4 weeks)
+- [Cognitive Algorithms in planning, vision and language] (4 weeks)
 - [Mid-term exam] (1 week)
 
 
