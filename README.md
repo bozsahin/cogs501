@@ -35,9 +35,15 @@ Lecture notes are <a href="https://github.com/umutozge/cogs501">here</a>.
 
 Some popular references for course material:
 
-Sudkamp, Thomas (2006). Formal Languages and Machines. Pearson. 3rd edition.
+Sudkamp, Thomas (2006). Formal Languages and Machines. Pearson. 3rd edition. (for automata and formal languages)
 
-de la Higuera, Colin (2010). Grammatical Inference. Cambridge University Press.
+Hankin, Chris (2004). An introduction to Lambda calculi for computer scientists. Kings's College Publ. (for lambda calculus)
+
+Jurasky, Daniel and James Martin (1999). Speech and language processing, chapter 12. (for probabilistic inference)
+
+de la Higuera, Colin (2010). Grammatical Inference. Cambridge University Press. (general reference)
+
+
 
 
 ### Evaluation
