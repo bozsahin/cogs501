@@ -22,7 +22,7 @@ of the course.
 
 ### Outline
 
-- [From Aristotle to Ibn Khaldun, Newton, Hume and Turing] Mechanistic explanation. (2 weeks)
+- [From Aristotle to Ibn Khaldun, Kepler, Hume and Turing] Mechanistic explanation. (2 weeks)
 - [Automata and formal languages] (4 weeks)
 - [Lambda calculus] (4 weeks)
 - [Probabilistic inference from structures] (3 weeks)
