@@ -1,18 +1,18 @@
-# Spring 2019
+# Spring 2020
 
 COGS 501 - Algorithmic structures in cognition - METU 
 -------------------------------------------------------
 
 **Short description:** Introduction to two foundational concepts in cognitive science: representation of structures and its computation. Mechanistic explanation of structure.
 
-**Instructor:** Cem Bozsahin (spring 2019)
+**Instructor:** Cem Bozsahin (spring 2020)
 
  Room B-209, phone: 210 7758  
  Office hours: open door policy except lecture days 
  
 (I need to concentrate for the lecture, and am too tired to talk after lecture)
 
-**Teaching assistant:** TBA
+**Teaching assistant:** Firat Oter
 
 **News and discussion:** in class and the Google
 [group](https://groups.google.com/forum/#!forum/metu-cogs-501-algorithmic-structures-in-cognition)
@@ -24,8 +24,8 @@ of the course.
 
 - [From Aristotle to Ibn Khaldun, Newton, Hume and Turing] Mechanistic explanation. (2 weeks)
 - [Automata and formal languages] (4 weeks)
-- [Lambda calculus] (3 weeks)
-- [Cognitive Algorithms in planning, vision and language] (4 weeks)
+- [Lambda calculus] (4 weeks)
+- [Probabilistic inference from structures] (3 weeks)
 - [Mid-term exam] (1 week)
 
 
@@ -37,7 +37,7 @@ Some popular references for course material:
 
 Sudkamp, Thomas (2006). Formal Languages and Machines. Pearson. 3rd edition.
 
-Others TBA
+de la Higuera, Colin (2010). Grammatical Inference. Cambridge University Press.
 
 
 ### Evaluation
