@@ -33,7 +33,7 @@ of the course.
 
 Lecture notes are <a href="https://github.com/umutozge/cogs501">here</a>.
 
-Some popular references for course material:
+Course material is an odd mixture of:
 
 Sudkamp, Thomas (1997). Formal Languages and Machines. Pearson. 2nd edition. (for automata and formal languages)
 
