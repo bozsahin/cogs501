@@ -7,10 +7,7 @@ COGS 501 - Algorithmic structures in cognition - METU
 
 **Instructor:** Cem Bozsahin (spring 2021)
 
- Room B-209 
- Office hours: open door policy except lecture days 
- 
-(I need to concentrate for the lecture, and am too tired to talk after lecture)
+ This term the course is going to be online. I will send you video and Q&A links.
 
 **Teaching assistant:** Ecenur Cagirici
 
