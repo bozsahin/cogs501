@@ -1,24 +1,24 @@
-# Spring 2020
+# Spring 2021
 
 COGS 501 - Algorithmic structures in cognition - METU 
 -------------------------------------------------------
 
 **Short description:** Introduction to two foundational concepts in cognitive science: representation of structures and its computation. Mechanistic explanation of structure.
 
-**Instructor:** Cem Bozsahin (spring 2020)
+**Instructor:** Cem Bozsahin (spring 2021)
 
- Room B-209, phone: 210 7758  
+ Room B-209 
  Office hours: open door policy except lecture days 
  
 (I need to concentrate for the lecture, and am too tired to talk after lecture)
 
-**Teaching assistant:** Firat Oter
+**Teaching assistant:** Ecenur Cagirici
 
 **News and discussion:** in class and the Google
 [group](https://groups.google.com/forum/#!forum/metu-cogs-501-algorithmic-structures-in-cognition)
 of the course. 
 
-**Time and place:** Thursdays, 14.40-17.30, at Informatics room S-03.
+**Time and place:** TBA
 
 ### Outline
 
@@ -49,7 +49,7 @@ de la Higuera, Colin (2010). Grammatical Inference. Cambridge University Press. 
 |Category| Date | Weight |
 :---|:---|---:
 Weekly quiz | Every week | 54% 
-Midterm exam  | March 26, 2020 in class | 20%
+Midterm exam  | TBA | 20%
 Final exam | TBA | 26%
 
 11 quizzes, sometimes in the beginning, sometimes at the end of class.
