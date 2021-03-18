@@ -57,7 +57,7 @@ Final exam | TBA | 26%
 
 ### Attendance
 
-More or less required, because of the quiz.
+Watching the week's video and attending the Q&A are required, whether or not you have a question.
 
 - METU ethical rules apply (check the official syllabus
   [here](https://odtusyllabus.metu.edu.tr/)).
