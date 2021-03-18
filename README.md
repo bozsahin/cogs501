@@ -15,7 +15,7 @@ COGS 501 - Algorithmic structures in cognition - METU
 [group](https://groups.google.com/forum/#!forum/metu-cogs-501-algorithmic-structures-in-cognition)
 of the course. 
 
-**Time and place:** TBA
+**Time and place:** Live Q&A is on Thursdays 14.40. Lectures are up in youtube, which I send pointers every monday, to read before Q&A.
 
 ### Outline
 
