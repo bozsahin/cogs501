@@ -30,7 +30,7 @@ of the course.
 
 ### Material
 
-Lecture notes are <a href="https://github.com/umutozge/cogs501">here</a>.
+Lecture notes are <a href="https://github.com/umutozge/cogs501">here</a> (with gratitude). 
 
 Course material is an odd mixture of:
 
