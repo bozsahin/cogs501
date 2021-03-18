@@ -19,11 +19,11 @@ of the course.
 
 ### Outline
 
-- [From Aristotle to Ibn Khaldun, Kepler, Hume, Marr and Turing] Structure. (2 weeks)
-- [Automata and formal languages] (4 weeks)
-- [Lambda calculus] (4 weeks)
-- [Probabilistic inference from structures] (3 weeks)
-- [Mid-term exam] (1 week)
+- Structure (2 weeks)
+- Automata and formal languages (4 weeks)
+- Lambda calculus (4 weeks)
+- Probabilistic inference from structures (3 weeks)
+- Mid-term exam (1 week)
 
 
 ### Material
