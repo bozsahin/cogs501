@@ -17,6 +17,8 @@ of the course.
 
 **Time and place:** Live Q&A is on Thursdays 14.40. Lectures are up in youtube, for which I send links every monday, to read before Q&A.
 
+**Quizzes:** Usually announced after live Q&A, to be done over the weekend, to be submitted in pdf/jpg. Solo and original work.
+
 ### Outline
 
 - Structure (2 weeks)
