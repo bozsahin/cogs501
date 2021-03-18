@@ -49,7 +49,7 @@ Weekly quiz | Every week | 54%
 Midterm exam  | TBA | 20%
 Final exam | TBA | 26%
 
-11 quizzes, sometimes in the beginning, sometimes at the end of class.
+11 quizzes, take-home style during the pandemic.
 
 9 out of 11 count toward overall grade.
 
