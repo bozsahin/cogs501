@@ -1,23 +1,24 @@
-# Spring 2021
+# Spring 2022
 
 COGS 501 - Algorithmic structures in cognition - METU 
 -------------------------------------------------------
 
-**Short description:** Introduction to two foundational concepts in cognitive science: representation of structures and its computation. Mechanistic explanation of structure.
+**Short description:** Introduction to three foundational concepts in cognitive science: representation of structure, its computation and uncertainty. 
 
-**Instructor:** Cem Bozsahin (spring 2021)
+**Lecturer** Cem Bozsahin (spring 2022)
 
- This term the course is going to be online. I will send you video and Q&A links.
+**Lectures** Wednesdays 14.40-17.30, in Room S03 of the Informatics Institute
 
-**Teaching assistant:** Ecenur Cagirici
+The course will be face to face. I record the lectures and show videos during lectures, also recorded.
+Physical attendance is not required. But mental attendance, physical or online, is always required.
+
+**Teaching assistant:** TBA
 
 **News and discussion:** in class and the Google
 [group](https://groups.google.com/forum/#!forum/metu-cogs-501-algorithmic-structures-in-cognition)
 of the course. 
 
-**Time and place:** Live Q&A is on Thursdays 14.40. Lectures are up in youtube, for which I send links every monday, to read before Q&A.
-
-**Quizzes:** Usually announced after live Q&A, to be done over the weekend, to be submitted in pdf/jpg. Solo and original work.
+**Quizzes:** Usually announced over email, to be done over the weekend, to be submitted in pdf/jpg. Solo and original work.
 
 ### Outline
 
@@ -41,23 +42,18 @@ Michaelson, Greg (1989). An introduction to functional programming through lambd
 de la Higuera, Colin (2010). Grammatical Inference. Cambridge University Press. (for probabilistic inference)
 
 
-
-
 ### Evaluation
 
 |Category| Date | Weight |
 :---|:---|---:
-Weekly quiz | Every week | 54% 
+Weekly quiz | Every week | 60% 
 Midterm exam  | TBA | 20%
-Final exam | TBA | 26%
+Final exam | TBA | 20%
 
-11 quizzes, take-home style during the pandemic.
+11 quizzes, take-home style.
 
-9 out of 11 count toward overall grade.
+10 out of 11 count toward overall grade.
 
-### Attendance
-
-Watching the week's video and attending the Q&A are required, whether or not you have a question.
 
 - METU ethical rules apply (check the official syllabus
   [here](https://odtusyllabus.metu.edu.tr/)).
