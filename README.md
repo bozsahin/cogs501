@@ -15,7 +15,7 @@ Physical attendance is not required. But mental attendance, physical or online, 
 At any rate, we cannot exceed the physical attendance limit of 16 students in class at any time, as determined
 by the university for the pandemic size of the room.
 
-**Teaching assistant:** TBA
+**Teaching assistant:** Ecenur Cagirici
 
 **News and discussion:** in class and the Google
 [group](https://groups.google.com/forum/#!forum/metu-cogs-501-algorithmic-structures-in-cognition)
