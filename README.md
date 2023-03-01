@@ -3,19 +3,18 @@
 COGS 501 - Algorithmic structures in cognition - METU 
 -------------------------------------------------------
 
+no-COGS students. By departmental decision, this course is open to COGS students only. Sorry.
+
 **Short description:** Introduction to three foundational concepts in cognitive science: representation of structure, its computation and uncertainty. 
 
-**Lecturer** Cem Bozsahin (spring 2022)
+**Lecturer** Cem Bozsahin (spring 2023)
+
+**Teaching assistant:** Ecenur Cagirici
 
 **Lectures** Wednesdays 14.40-17.30, in Room S03 of the Informatics Institute
 
-The course will be face to face. I record the lectures and show videos during lectures, also recorded.
-Physical attendance is not required. But mental attendance, physical or online, is always required.
+We will start online. Then we will see how it goes.
 
-At any rate, we cannot exceed the physical attendance limit of 16 students in class at any time, as determined
-by the university for the pandemic size of the room.
-
-**Teaching assistant:** Ecenur Cagirici
 
 **News and discussion:** in class and the Google
 [group](https://groups.google.com/forum/#!forum/metu-cogs-501-algorithmic-structures-in-cognition)
