@@ -1,9 +1,9 @@
-# Spring 2022
+# Spring 2023
 
 COGS 501 - Algorithmic structures in cognition - METU 
 -------------------------------------------------------
 
-no-COGS students. By departmental decision, this course is open to COGS students only. Sorry.
+non-COGS students: By departmental decision, this course is open to COGS students only. Sorry.
 
 **Short description:** Introduction to three foundational concepts in cognitive science: representation of structure, its computation and uncertainty. 
 
