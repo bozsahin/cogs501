@@ -62,4 +62,4 @@ Final exam | TBA | 20%
 
 
 - METU ethical rules apply (check the official syllabus
-  [here](https://odtusyllabus.metu.edu.tr/)).
+  [here] https://catalog.metu.edu.tr/course.php?prog=902&course_code=9020501.
