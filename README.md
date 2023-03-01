@@ -8,7 +8,7 @@ non-COGS students: By departmental decision, this course is open to COGS student
 **Short description:** Introduction to three foundational concepts in cognitive science: representation of structure, its computation and uncertainty.
 
 **Longer description** The mind appears to be one lean mean putting things together machine. What are put together? At least: structure, content
-and uncertainty. This course is a somewhat gentle introduction to these three topics. It is meant to bring incoming cogsci students up to speed
+and uncertainty. This course is a somewhat gentle introduction to the mathematical aspects of these three topics. It is meant to bring incoming cogsci students up to speed
 to be able to do research in a year or so.
 
 **Lecturer** Cem Bozsahin (spring 2023)
