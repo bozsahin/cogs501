@@ -19,6 +19,8 @@ to be able to do research in a year or so.
 
 We will start online. Then we will see how it goes.
 
+In any case, I will have an open hour on Thursday 12.00-14.00, for face to face discussion for those who want it.
+
 
 **News and discussion:** in class and the Google
 [group](https://groups.google.com/forum/#!forum/metu-cogs-501-algorithmic-structures-in-cognition)
