@@ -21,7 +21,7 @@ We will start online. Then we will see how it goes.
 
 In any case, I will have an open hour on Thursday 12.00-14.00, for face to face discussion for those who want it.
 I will try to make it online as well, in case anybody wants to join online. 
-In fairness to those who cannot make it face to face, I will try to record it to the best of abilities.
+In fairness to those who cannot make it face to face, I will try to record it to the best of my abilities.
 
 
 **News and discussion:** in class and the Google
