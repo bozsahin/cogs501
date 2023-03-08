@@ -32,11 +32,11 @@ of the course.
 
 ### Outline
 
-- Structure (2 weeks)
+- Structure (3 weeks)
 - Automata and formal languages (4 weeks)
 - Lambda calculus (4 weeks)
-- Probabilistic inference from structures (3 weeks)
-- Mid-term exam (1 week)
+- Probabilistic inference from structures (2 weeks)
+- Mid-term exam (1 week, no class)
 
 
 ### Material
